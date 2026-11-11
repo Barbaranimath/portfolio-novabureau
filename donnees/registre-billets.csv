@@ -1,0 +1,121 @@
+billet,date_ouverture,demandeur,departement,categorie,priorite,technicien,prise_en_charge_min,resolution_min,cible_prise_en_charge_min,cible_resolution_min,resolu_premier_contact,satisfaction_1a5
+REQ-094,2026-07-01 11:40,E04,Ressources humaines,Assistance VPN,P3,Barbara Saroukou,87,181,240,240,Non,5
+REQ-045,2026-07-02 08:10,E07,Finance,Accès à un dossier partagé,P3,Thomas Caron,319,350,240,480,Non,4
+REQ-030,2026-07-02 11:30,E13,Ventes,Réinitialisation de mot de passe,P3,Thomas Caron,2,13,30,30,Oui,4
+REQ-112,2026-07-03 14:30,E16,Administration,Impression,P3,Barbara Saroukou,81,282,240,240,Oui,4
+REQ-033,2026-07-03 16:10,E13,Ventes,Stockage partagé indisponible,P1,Barbara Saroukou,11,90,15,120,Non,5
+REQ-073,2026-07-06 08:30,E08,Finance,Réinitialisation de mot de passe,P3,Barbara Saroukou,2,11,30,30,Oui,4
+REQ-057,2026-07-06 10:40,E06,Finance,Compte verrouillé,P3,Barbara Saroukou,7,25,30,30,Oui,5
+REQ-107,2026-07-06 12:10,E04,Ressources humaines,Accès à un dossier partagé,P3,Barbara Saroukou,130,266,240,480,Oui,3
+REQ-027,2026-07-06 14:40,E08,Finance,Assistance VPN,P3,Thomas Caron,56,137,240,240,Oui,5
+REQ-006,2026-07-07 16:50,E08,Finance,Courriel suspect,P2,Thomas Caron,12,42,60,60,Oui,4
+REQ-054,2026-07-08 08:20,E18,Administration,Assistance VPN,P3,Barbara Saroukou,45,219,240,240,Oui,5
+REQ-119,2026-07-08 16:10,E08,Finance,Réinitialisation de mot de passe,P3,Barbara Saroukou,3,15,30,30,Oui,5
+REQ-099,2026-07-09 09:00,E15,Administration,Remplacement de matériel,P4,Thomas Caron,256,2231,480,960,Non,5
+REQ-022,2026-07-09 12:20,E09,Ventes,Assistance VPN,P3,Barbara Saroukou,50,112,240,240,Oui,5
+REQ-108,2026-07-10 15:20,E02,Direction,Courriel suspect,P2,Thomas Caron,104,107,60,60,Oui,5
+REQ-065,2026-07-10 16:00,E16,Administration,Remplacement de matériel,P4,Barbara Saroukou,133,822,480,960,Non,5
+REQ-076,2026-07-13 08:50,E06,Finance,Lenteur du poste,P3,Barbara Saroukou,86,180,240,480,Non,2
+REQ-102,2026-07-13 10:30,E07,Finance,Courriel suspect,P2,Barbara Saroukou,19,56,60,60,Non,4
+REQ-019,2026-07-13 15:50,E06,Finance,Compte verrouillé,P3,Thomas Caron,9,20,30,30,Oui,5
+REQ-103,2026-07-14 11:30,E01,Direction,Réinitialisation de mot de passe,P3,Barbara Saroukou,51,54,30,30,Oui,5
+REQ-023,2026-07-16 09:50,E15,Administration,Réinitialisation de mot de passe,P3,Barbara Saroukou,6,28,30,30,Oui,4
+REQ-113,2026-07-16 12:00,E15,Administration,Installation de logiciel,P4,Thomas Caron,106,214,480,480,Oui,5
+REQ-017,2026-07-20 10:50,E03,Ressources humaines,Accès à un dossier partagé,P3,Barbara Saroukou,71,266,240,480,Oui,5
+REQ-105,2026-07-20 11:40,E12,Ventes,Réinitialisation de mot de passe,P3,Barbara Saroukou,4,11,30,30,Oui,3
+REQ-086,2026-07-21 14:40,E07,Finance,Installation de logiciel,P4,Barbara Saroukou,22,154,480,480,Non,5
+REQ-034,2026-07-21 16:00,E02,Direction,Assistance VPN,P3,Thomas Caron,38,186,240,240,Non,5
+REQ-120,2026-07-22 12:30,E03,Ressources humaines,Compte verrouillé,P3,Thomas Caron,14,28,30,30,Oui,4
+REQ-077,2026-07-23 15:40,E17,Administration,Installation de logiciel,P4,Thomas Caron,57,351,480,480,Non,5
+REQ-055,2026-07-24 10:30,E08,Finance,Remplacement de matériel,P4,Barbara Saroukou,66,594,480,960,Non,5
+REQ-010,2026-07-24 14:50,E04,Ressources humaines,Compte verrouillé,P3,Barbara Saroukou,3,10,30,30,Oui,3
+REQ-071,2026-07-27 15:00,E10,Ventes,Lenteur du poste,P3,Barbara Saroukou,36,197,240,480,Oui,3
+REQ-088,2026-07-27 16:30,E15,Administration,Assistance VPN,P3,Barbara Saroukou,20,100,240,240,Non,5
+REQ-059,2026-07-28 11:00,E04,Ressources humaines,Impression,P3,Barbara Saroukou,48,127,240,240,Oui,5
+REQ-067,2026-07-28 14:50,E17,Administration,Réinitialisation de mot de passe,P3,Barbara Saroukou,4,18,30,30,Oui,4
+REQ-070,2026-07-28 16:00,E15,Administration,Impression,P3,Thomas Caron,76,158,240,240,Oui,3
+REQ-117,2026-07-29 12:40,E10,Ventes,Compte verrouillé,P3,Barbara Saroukou,5,25,30,30,Oui,5
+REQ-084,2026-07-29 16:40,E12,Ventes,Courriel suspect,P2,Thomas Caron,87,90,60,60,Non,5
+REQ-079,2026-07-30 13:30,E15,Administration,Réinitialisation de mot de passe,P3,Thomas Caron,42,45,30,30,Oui,5
+REQ-066,2026-07-31 16:20,E04,Ressources humaines,Compte verrouillé,P3,Barbara Saroukou,5,19,30,30,Oui,5
+REQ-021,2026-08-03 09:30,E06,Finance,Réinitialisation de mot de passe,P3,Barbara Saroukou,9,22,30,30,Oui,5
+REQ-042,2026-08-03 10:40,E04,Ressources humaines,Impression,P3,Barbara Saroukou,358,361,240,240,Oui,4
+REQ-093,2026-08-03 11:50,E17,Administration,Installation de logiciel,P4,Barbara Saroukou,247,1017,480,480,Oui,5
+REQ-003,2026-08-03 13:20,E11,Ventes,Réinitialisation de mot de passe,P3,Barbara Saroukou,4,28,30,30,Oui,5
+REQ-049,2026-08-03 15:10,E02,Direction,Courriel suspect,P2,Thomas Caron,8,38,60,60,Non,4
+REQ-008,2026-08-04 08:00,E16,Administration,Réinitialisation de mot de passe,P3,Barbara Saroukou,50,53,30,30,Oui,4
+REQ-061,2026-08-04 13:30,E12,Ventes,Accès à un dossier partagé,P3,Barbara Saroukou,113,600,240,480,Non,4
+REQ-063,2026-08-05 12:00,E04,Ressources humaines,Réinitialisation de mot de passe,P3,Barbara Saroukou,3,10,30,30,Oui,4
+REQ-031,2026-08-05 13:10,E10,Ventes,Accès à un dossier partagé,P3,Barbara Saroukou,122,287,240,480,Non,5
+REQ-100,2026-08-06 14:20,E14,Ventes,Courriel suspect,P2,Barbara Saroukou,24,51,60,60,Oui,3
+REQ-035,2026-08-07 16:20,E01,Direction,Impression,P3,Thomas Caron,89,224,240,240,Oui,3
+REQ-024,2026-08-10 11:40,E17,Administration,Lenteur du poste,P3,Barbara Saroukou,168,449,240,480,Non,5
+REQ-116,2026-08-10 11:50,E07,Finance,Accès à un dossier partagé,P3,Thomas Caron,120,375,240,480,Oui,5
+REQ-091,2026-08-10 12:30,E14,Ventes,Assistance VPN,P3,Thomas Caron,72,180,240,240,Oui,4
+REQ-012,2026-08-10 15:50,E17,Administration,Réinitialisation de mot de passe,P3,Barbara Saroukou,4,12,30,30,Oui,5
+REQ-040,2026-08-12 13:50,E15,Administration,Accès à un dossier partagé,P3,Barbara Saroukou,53,298,240,480,Non,5
+REQ-110,2026-08-12 16:50,E16,Administration,Installation de logiciel,P4,Thomas Caron,52,157,480,480,Non,5
+REQ-026,2026-08-13 11:40,E02,Direction,Réinitialisation de mot de passe,P3,Barbara Saroukou,4,28,30,30,Oui,4
+REQ-104,2026-08-13 12:00,E08,Finance,Réinitialisation de mot de passe,P3,Barbara Saroukou,3,20,30,30,Oui,4
+REQ-111,2026-08-13 13:10,E13,Ventes,Assistance VPN,P3,Barbara Saroukou,27,112,240,240,Non,4
+REQ-096,2026-08-14 12:30,E10,Ventes,Installation de logiciel,P4,Barbara Saroukou,30,273,480,480,Non,5
+REQ-025,2026-08-17 08:50,E04,Ressources humaines,Lenteur du poste,P3,Barbara Saroukou,97,418,240,480,Non,4
+REQ-037,2026-08-17 09:20,E04,Ressources humaines,Réinitialisation de mot de passe,P3,Thomas Caron,4,19,30,30,Oui,3
+REQ-068,2026-08-17 16:10,E03,Ressources humaines,Assistance VPN,P3,Barbara Saroukou,57,305,240,240,Non,4
+REQ-032,2026-08-17 16:50,E18,Administration,Impression,P3,Thomas Caron,17,78,240,240,Oui,4
+REQ-095,2026-08-18 09:20,E11,Ventes,Accès à un dossier partagé,P3,Barbara Saroukou,128,454,240,480,Non,4
+REQ-038,2026-08-18 12:40,E18,Administration,Remplacement de matériel,P4,Barbara Saroukou,108,361,480,960,Non,4
+REQ-085,2026-08-19 13:10,E01,Direction,Accès à un dossier partagé,P3,Barbara Saroukou,117,262,240,480,Oui,5
+REQ-053,2026-08-20 16:40,E05,Finance,Stockage partagé indisponible,P1,Thomas Caron,14,51,15,120,Oui,4
+REQ-044,2026-08-21 10:00,E14,Ventes,Réinitialisation de mot de passe,P3,Thomas Caron,8,23,30,30,Oui,4
+REQ-081,2026-08-21 11:50,E11,Ventes,Courriel suspect,P2,Barbara Saroukou,6,24,60,60,Non,4
+REQ-060,2026-08-24 08:40,E10,Ventes,Lenteur du poste,P3,Thomas Caron,228,964,240,480,Non,5
+REQ-089,2026-08-24 10:00,E16,Administration,Stockage partagé indisponible,P1,Barbara Saroukou,9,72,15,120,Non,4
+REQ-056,2026-08-24 10:20,E12,Ventes,Assistance VPN,P3,Barbara Saroukou,19,151,240,240,Non,4
+REQ-090,2026-08-24 10:30,E04,Ressources humaines,Stockage partagé indisponible,P1,Barbara Saroukou,11,56,15,120,Oui,4
+REQ-092,2026-08-24 12:10,E02,Direction,Compte verrouillé,P3,Barbara Saroukou,6,21,30,30,Oui,5
+REQ-018,2026-08-24 12:30,E17,Administration,Accès à un dossier partagé,P3,Thomas Caron,95,306,240,480,Non,4
+REQ-069,2026-08-24 14:00,E09,Ventes,Courriel suspect,P2,Thomas Caron,3,20,60,60,Oui,5
+REQ-041,2026-08-24 14:10,E09,Ventes,Courriel suspect,P2,Barbara Saroukou,7,47,60,60,Oui,5
+REQ-080,2026-08-24 15:20,E07,Finance,Remplacement de matériel,P4,Barbara Saroukou,255,798,480,960,Non,4
+REQ-047,2026-08-24 16:50,E02,Direction,Réinitialisation de mot de passe,P3,Barbara Saroukou,6,12,30,30,Oui,2
+REQ-083,2026-08-25 10:30,E02,Direction,Compte verrouillé,P3,Thomas Caron,21,60,30,30,Oui,4
+REQ-097,2026-08-25 12:30,E07,Finance,Courriel suspect,P2,Barbara Saroukou,5,52,60,60,Oui,5
+REQ-011,2026-08-27 16:00,E18,Administration,Réinitialisation de mot de passe,P3,Thomas Caron,2,13,30,30,Oui,4
+REQ-114,2026-08-31 13:10,E10,Ventes,Lenteur du poste,P3,Barbara Saroukou,168,394,240,480,Non,5
+REQ-048,2026-08-31 13:20,E09,Ventes,Stockage partagé indisponible,P1,Barbara Saroukou,14,83,15,120,Non,5
+REQ-118,2026-08-31 13:50,E11,Ventes,Impression,P3,Barbara Saroukou,58,191,240,240,Oui,4
+REQ-064,2026-08-31 16:00,E06,Finance,Installation de logiciel,P4,Barbara Saroukou,62,243,480,480,Oui,2
+REQ-002,2026-09-01 15:10,E01,Direction,Courriel suspect,P2,Thomas Caron,3,21,60,60,Non,4
+REQ-009,2026-09-02 14:40,E04,Ressources humaines,Accès à un dossier partagé,P3,Barbara Saroukou,44,154,240,480,Non,3
+REQ-001,2026-09-03 16:50,E18,Administration,Réinitialisation de mot de passe,P3,Barbara Saroukou,4,11,30,30,Oui,4
+REQ-050,2026-09-04 16:20,E11,Ventes,Assistance VPN,P3,Barbara Saroukou,228,471,240,240,Non,5
+REQ-052,2026-09-07 10:40,E05,Finance,Installation de logiciel,P4,Barbara Saroukou,160,413,480,480,Non,5
+REQ-036,2026-09-07 10:50,E04,Ressources humaines,Installation de logiciel,P4,Barbara Saroukou,33,200,480,480,Non,4
+REQ-078,2026-09-07 12:10,E05,Finance,Réinitialisation de mot de passe,P3,Barbara Saroukou,3,14,30,30,Oui,5
+REQ-058,2026-09-07 14:50,E15,Administration,Installation de logiciel,P4,Thomas Caron,200,411,480,480,Non,5
+REQ-028,2026-09-08 16:30,E18,Administration,Remplacement de matériel,P4,Barbara Saroukou,83,779,480,960,Oui,5
+REQ-082,2026-09-08 16:30,E17,Administration,Compte verrouillé,P3,Barbara Saroukou,3,16,30,30,Oui,4
+REQ-043,2026-09-09 13:50,E18,Administration,Installation de logiciel,P4,Barbara Saroukou,52,174,480,480,Non,4
+REQ-051,2026-09-10 10:20,E04,Ressources humaines,Réinitialisation de mot de passe,P3,Thomas Caron,28,73,30,30,Oui,5
+REQ-046,2026-09-10 11:40,E15,Administration,Installation de logiciel,P4,Barbara Saroukou,220,451,480,480,Non,4
+REQ-115,2026-09-10 14:10,E18,Administration,Courriel suspect,P2,Thomas Caron,6,33,60,60,Non,4
+REQ-029,2026-09-14 09:10,E09,Ventes,Lenteur du poste,P3,Barbara Saroukou,350,353,240,480,Non,4
+REQ-013,2026-09-14 12:40,E01,Direction,Réinitialisation de mot de passe,P3,Thomas Caron,4,25,30,30,Oui,5
+REQ-039,2026-09-14 13:00,E09,Ventes,Installation de logiciel,P4,Thomas Caron,184,448,480,480,Oui,5
+REQ-015,2026-09-14 16:10,E03,Ressources humaines,Réinitialisation de mot de passe,P3,Barbara Saroukou,6,16,30,30,Oui,4
+REQ-020,2026-09-14 16:10,E07,Finance,Accès à un dossier partagé,P3,Barbara Saroukou,120,367,240,480,Non,4
+REQ-005,2026-09-15 15:30,E16,Administration,Courriel suspect,P2,Barbara Saroukou,41,88,60,60,Non,4
+REQ-101,2026-09-16 14:50,E15,Administration,Accès à un dossier partagé,P3,Barbara Saroukou,122,285,240,480,Oui,5
+REQ-098,2026-09-18 16:30,E10,Ventes,Installation de logiciel,P4,Barbara Saroukou,116,335,480,480,Non,5
+REQ-087,2026-09-21 09:30,E11,Ventes,Accès à un dossier partagé,P3,Barbara Saroukou,110,241,240,480,Non,5
+REQ-074,2026-09-21 10:30,E17,Administration,Installation de logiciel,P4,Thomas Caron,38,251,480,480,Non,5
+REQ-106,2026-09-21 10:40,E18,Administration,Accès à un dossier partagé,P3,Barbara Saroukou,127,1064,240,480,Non,4
+REQ-004,2026-09-21 12:00,E18,Administration,Réinitialisation de mot de passe,P3,Barbara Saroukou,2,16,30,30,Oui,5
+REQ-014,2026-09-21 13:00,E04,Ressources humaines,Courriel suspect,P2,Barbara Saroukou,10,37,60,60,Non,4
+REQ-016,2026-09-21 16:00,E01,Direction,Réinitialisation de mot de passe,P3,Barbara Saroukou,9,24,30,30,Oui,4
+REQ-109,2026-09-22 11:40,E11,Ventes,Impression,P3,Barbara Saroukou,79,226,240,240,Oui,5
+REQ-062,2026-09-24 16:20,E18,Administration,Lenteur du poste,P3,Thomas Caron,128,446,240,480,Non,5
+REQ-075,2026-09-28 13:10,E16,Administration,Remplacement de matériel,P4,Barbara Saroukou,91,360,480,960,Non,5
+REQ-072,2026-09-28 16:10,E02,Direction,Réinitialisation de mot de passe,P3,Barbara Saroukou,6,19,30,30,Oui,5
+REQ-007,2026-09-30 16:20,E17,Administration,Assistance VPN,P3,Barbara Saroukou,74,176,240,240,Non,5

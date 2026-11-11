@@ -1,0 +1,21 @@
+id,prenom,nom,poste,departement,courriel,teletravail,mfa_active,date_arrivee,statut
+E01,Claire,Bouchard,Directrice générale,Direction,claire.bouchard@novabureau.example,Non,Oui,2019-03-04,Actif
+E02,Antoine,Lavoie,Directeur des opérations,Direction,antoine.lavoie@novabureau.example,Oui,Oui,2019-06-17,Actif
+E03,Nadia,Benali,Conseillère RH,Ressources humaines,nadia.benali@novabureau.example,Oui,Oui,2020-01-13,Actif
+E04,Julien,Gagnon,Technicien RH,Ressources humaines,julien.gagnon@novabureau.example,Non,Oui,2022-09-06,Actif
+E05,Isabelle,Roy,Contrôleuse financière,Finance,isabelle.roy@novabureau.example,Non,Oui,2019-04-01,Actif
+E06,Samuel,Côté,Comptable,Finance,samuel.cote@novabureau.example,Oui,Oui,2021-02-15,Actif
+E07,Amina,Diallo,Analyste financière,Finance,amina.diallo@novabureau.example,Oui,Non,2023-05-08,Actif
+E08,Louis,Pelletier,Commis comptable,Finance,louis.pelletier@novabureau.example,Non,Oui,2024-08-19,Actif
+E09,Émilie,Fortin,Directrice des ventes,Ventes,emilie.fortin@novabureau.example,Oui,Oui,2020-03-02,Actif
+E10,Marc,Tremblay,Analyste aux ventes,Ventes,marc.tremblay@novabureau.example,Oui,Oui,2021-10-04,Départ planifié
+E11,Kevin,Nguyen,Représentant commercial,Ventes,kevin.nguyen@novabureau.example,Oui,Oui,2022-04-11,Actif
+E12,Sarah,Morin,Représentante commerciale,Ventes,sarah.morin@novabureau.example,Oui,Oui,2023-01-16,Actif
+E13,Olivier,Girard,Représentant commercial,Ventes,olivier.girard@novabureau.example,Non,Non,2024-02-05,Actif
+E14,Fatou,Ndiaye,Coordonnatrice ventes,Ventes,fatou.ndiaye@novabureau.example,Non,Non,2025-03-10,Actif
+E15,Sophie,Martin,Adjointe administrative,Administration,sophie.martin@novabureau.example,Non,Oui,2026-10-05,Nouvelle arrivée
+E16,Philippe,Bergeron,Agent administratif,Administration,philippe.bergeron@novabureau.example,Non,Oui,2020-07-20,Actif
+E17,Mélanie,Ouellet,Réceptionniste,Administration,melanie.ouellet@novabureau.example,Non,Non,2022-11-14,Actif
+E18,Hugo,Leblanc,Agent administratif,Administration,hugo.leblanc@novabureau.example,Oui,Oui,2023-09-25,Actif
+E19,Barbara,Saroukou,Agente soutien et conformité TI,Technologies de l'information,barbara.saroukou@novabureau.example,Oui,Oui,2025-06-02,Actif
+E20,Thomas,Caron,Responsable TI,Technologies de l'information,thomas.caron@novabureau.example,Oui,Oui,2019-03-04,Actif

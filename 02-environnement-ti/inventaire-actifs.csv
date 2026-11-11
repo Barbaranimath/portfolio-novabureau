@@ -1,0 +1,26 @@
+actif,type,modele_fictif,utilisateur_ou_lieu,os_firmware,chiffrement,antivirus,derniere_mise_a_jour,statut
+PC-001,Portable,ProBook 450,E01,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-002,Portable,ProBook 450,E02,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-003,Portable,ProBook 450,E03,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-004,Portable,ProBook 450,E04,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-005,Portable,Latitude 5440,E05,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-006,Portable,Latitude 5440,E06,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-007,Portable,Latitude 5440,E07,Windows 11 Pro 23H2,Oui,Actif,2026-09-10,Mise à jour en retard
+PC-008,Portable,Latitude 5440,E08,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-009,Portable,ThinkPad E14,E09,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-010,Portable,ThinkPad E14,E10,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,À récupérer (départ)
+PC-011,Portable,ThinkPad E14,E11,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-012,Portable,ThinkPad E14,E12,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-013,Portable,ThinkPad E14,E13,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-014,Portable,ThinkPad E14,E14,Windows 11 Pro 24H2,Non,Actif,2026-10-14,Chiffrement à activer
+PC-015,Portable,ProBook 450,E15,Windows 11 Pro 24H2,Oui,Actif,2026-10-05,En service
+PC-016,Portable,ProBook 450,E16,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-017,Portable,ProBook 450,E17,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-018,Portable,ProBook 450,E18,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-019,Portable,Latitude 5440,E19,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+PC-020,Portable,Latitude 5440,E20,Windows 11 Pro 24H2,Oui,Actif,2026-10-14,En service
+FW-01,Pare-feu,Série TZ fictive,Salle technique,Micrologiciel 7.1,s.o.,s.o.,2026-10-02,En service
+AP-01,Borne Wi-Fi,AP fictive,Aire ouverte,Micrologiciel 6.6,s.o.,s.o.,2026-10-02,En service
+AP-02,Borne Wi-Fi,AP fictive,Salle de réunion,Micrologiciel 6.6,s.o.,s.o.,2026-10-02,En service
+NAS-01,Stockage partagé,NAS 4 baies fictif,Salle technique,DSM 7.2,Oui,s.o.,2026-09-28,En service
+PRN-01,Imprimante,Multifonction fictive,Administration,Micrologiciel 3.4,s.o.,s.o.,2026-08-15,En service

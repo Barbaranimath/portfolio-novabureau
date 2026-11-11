@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Affiche — Un doute ? Signalez !</title>
+<style>
+  @page { size: letter; margin: 0; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: "Segoe UI", system-ui, sans-serif; background: #e9edf2; color: #10233a; }
+  .affiche { width: 8.5in; height: 11in; overflow: hidden; margin: 0 auto; background: #fff; padding: 0.5in 0.6in; display: flex; flex-direction: column; gap: 0.22in; }
+  .bandeau { background: #10233a; color: #fff; border-radius: 14px; padding: 0.35in 0.4in; }
+  .bandeau small { letter-spacing: .12em; text-transform: uppercase; color: #8fd3c7; font-weight: 600; }
+  h1 { font-size: 46px; line-height: 1.02; margin: 10px 0 8px; }
+  .bandeau p { font-size: 19px; margin: 0; color: #d7e1ec; }
+  .reflexes { display: grid; gap: 0.18in; }
+  .reflexe { display: grid; grid-template-columns: 64px 1fr; gap: 18px; align-items: start; border: 2px solid #dce4ec; border-radius: 12px; padding: 14px 20px; }
+  .num { width: 64px; height: 64px; border-radius: 50%; background: #1d8a7a; color: #fff; font-size: 30px; font-weight: 700; display: grid; place-items: center; }
+  .reflexe h2 { margin: 2px 0 6px; font-size: 25px; }
+  .reflexe p { margin: 0; font-size: 17px; line-height: 1.4; color: #3a4d63; }
+  .indices { background: #fff6e5; border-left: 8px solid #e8a317; border-radius: 10px; padding: 18px 22px; }
+  .indices h3 { margin: 0 0 8px; font-size: 20px; }
+  .indices ul { margin: 0; padding-left: 20px; columns: 2; font-size: 16px; line-height: 1.6; }
+  .contact { margin-top: auto; display: flex; justify-content: space-between; align-items: center; background: #1d8a7a; color: #fff; border-radius: 14px; padding: 22px 28px; }
+  .contact strong { font-size: 26px; display: block; }
+  .contact span { font-size: 16px; }
+  .jamais { font-size: 15px; text-align: center; color: #5a6b7e; }
+  @media print { body { background: #fff; } .affiche { margin: 0; } }
+</style>
+</head>
+<body>
+<main class="affiche">
+  <header class="bandeau">
+    <small>NovaBureau · Soutien TI</small>
+    <h1>Un doute ?<br>Signalez !</h1>
+    <p>Un courriel suspect signalé en 5 minutes protège toute l'équipe.</p>
+  </header>
+
+  <section class="reflexes">
+    <div class="reflexe"><div class="num">1</div><div><h2>Je m'arrête</h2><p>Urgence, menace, offre trop belle : c'est le signal pour ralentir, pas pour cliquer.</p></div></div>
+    <div class="reflexe"><div class="num">2</div><div><h2>Je vérifie</h2><p>Je survole le lien sans cliquer et je regarde l'adresse réelle de l'expéditeur.</p></div></div>
+    <div class="reflexe"><div class="num">3</div><div><h2>Je signale</h2><p>Bouton <b>Signaler</b> dans Outlook. Déjà cliqué ? Signalez quand même, sans crainte : personne ne sera blâmé.</p></div></div>
+  </section>
+
+  <section class="indices">
+    <h3>Indices fréquents</h3>
+    <ul>
+      <li>Délai très court</li>
+      <li>Domaine légèrement modifié</li>
+      <li>Demande de mot de passe</li>
+      <li>Pièce jointe inattendue</li>
+      <li>Changement de coordonnées bancaires</li>
+      <li>Demande MFA que je n'ai pas faite</li>
+    </ul>
+  </section>
+
+  <footer class="contact">
+    <div><strong>Poste 2020</strong><span>Urgence : j'ai saisi mon mot de passe</span></div>
+    <div style="text-align:right"><strong>soutien@</strong><span>novabureau.example</span></div>
+  </footer>
+  <p class="jamais">Le soutien TI ne vous demandera <b>jamais</b> votre mot de passe ni un code MFA. · Affiche éducative, entreprise fictive.</p>
+</main>
+</body>
+</html>
